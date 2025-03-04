@@ -1,0 +1,5 @@
+﻿{
+  "WarningTime": 10,
+  "EndSound": "sound1.mp3",
+  "WarningSound": "sound2.mp3"
+}
